@@ -2,8 +2,7 @@
 
 ![Echidna Engine](http://chronosayo.com/Art/echidnaengine.png)
 
-###### Roles: Programmer.
-###### Developed in: Simple DirectMedia Layer, C++.
+###### Roles: Programmer. <br> Developed in: Simple DirectMedia Layer, C++.
 A game engine made by me to be used for C++ projects. It includes all functionality required to quickly get into game developing without worrying too much of the more complicated functionalities. It also includes a game which exhibits how to implement elements like graphics and gameplay logic.
 
 ## Tech Summary
