@@ -1,6 +1,6 @@
 # Echidna-Engine
 
-(Echidna Engine)(http://chronosayo.com/Art/echidnaengine.png)
+!(Echidna Engine)(http://chronosayo.com/Art/echidnaengine.png)
 
 ###### Roles: Programmer.
 ###### Developed in: Simple DirectMedia Layer, C++.
