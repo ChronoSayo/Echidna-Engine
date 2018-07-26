@@ -23,6 +23,6 @@ A game engine made by me to be used for C++ projects. It includes all functional
 ## Insights
 I have mostly been working with Unity3D/Unity2D and UDK, where game engines are already available and only game logic is missing. I wanted to try my hands on creating my own game engine which skips most of the more technical stuff and focuses more on adding gameplay, similar to aforementioned game engines. I also wanted to expand my knowledge of C++, since most of my projects are C# oriented. With a robust game engine, I can easily create 2D games and let other people create their own 2D games by skipping most of the complex technical part of it.
 
-## Outsource
-Logo: Jean Manco
+## Outsourcing
+* Logo: Jean Manco <br>
 http://mancojean.wordpress.com/
